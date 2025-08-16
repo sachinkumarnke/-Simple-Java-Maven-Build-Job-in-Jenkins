@@ -27,11 +27,15 @@ mvn clean package
 4. Set Maven goal: `clean package`
 5. Build the project
 
+<img width="1905" height="954" alt="Screenshot 2025-08-16 111841" src="https://github.com/user-attachments/assets/eb714cfa-00a4-49e0-8292-8c1c0935b8c2" />
+<img width="1907" height="748" alt="Screenshot 2025-08-16 112242" src="https://github.com/user-attachments/assets/64539fc5-4732-4fe4-b54d-5327b59b4e66" />
+
+
+
 ## Expected Output
 ```
-Hello, Jenkins + Ma<img width="1905" height="954" alt="Screenshot 2025-08-16 111841" src="https://github.com/user-attachments/assets/876106a5-5cb9-4c28-aa9d-e5012dbe0a22" />
-ven!
+Hello, Jenkins + Maven!
 BUILD SUCCESS
-<img width="1907" height="748" alt="Screenshot 2025-08-16 112242" src="https://github.com/user-attachments/assets/3f5b4a02-5e8a-4cab-9584-23b2f6e98926" />
+
 
 ```
